@@ -22,3 +22,6 @@ Apart from the main tasks, I also developed a **console-based contact book** usi
 
 Through this internship, I have become comfortable using tools like `pandas`, `matplotlib`, `nltk`, `scikit-learn`, `fpdf`, and the standard Python libraries. I gained valuable experience in integrating third-party APIs, working with structured data, developing AI-powered scripts, and understanding the basics of machine learning. This hands-on exposure has deepened my confidence in Python programming and strengthened my foundation to work on more advanced projects in the future. Overall, this internship was a crucial step toward my journey as a Python developer.
 
+output:
+1.![Image](https://github.com/user-attachments/assets/4e0573ba-3549-4d05-b9f2-1db06b44165b)
+2.
