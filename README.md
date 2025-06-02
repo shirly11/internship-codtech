@@ -25,5 +25,6 @@ Through this internship, I have become comfortable using tools like `pandas`, `m
 output:
 1.![Image](https://github.com/user-attachments/assets/4e0573ba-3549-4d05-b9f2-1db06b44165b)
 2.![Image](https://github.com/user-attachments/assets/a8621e37-8492-48b6-b081-55f21c217428)
-![Image](https://github.com/user-attachments/assets/df7f963d-120b-4d8f-a064-bde013cd8a68)
-![Image](https://github.com/user-attachments/assets/d95a3904-c9d6-4fe4-87e6-445dc30d0db6)
+3.![Image](https://github.com/user-attachments/assets/df7f963d-120b-4d8f-a064-bde013cd8a68)
+4.![Image](https://github.com/user-attachments/assets/d95a3904-c9d6-4fe4-87e6-445dc30d0db6)
+5.![Image](https://github.com/user-attachments/assets/77e8538a-a003-4076-bde1-4c67cdd596f3)
