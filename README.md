@@ -24,4 +24,4 @@ Through this internship, I have become comfortable using tools like `pandas`, `m
 
 output:
 1.![Image](https://github.com/user-attachments/assets/4e0573ba-3549-4d05-b9f2-1db06b44165b)
-2.
+2.![Image](https://github.com/user-attachments/assets/a8621e37-8492-48b6-b081-55f21c217428)
